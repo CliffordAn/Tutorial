@@ -46,4 +46,4 @@ print(df1.head())
 df1.to_excel("C:\\Python\\DiagnosenMitCode.xlsx", index=False)
 
 #was wohl passiert wenn ich den Code ändere in GutHub
-print(df1)
+print(df1) #nix 2ter Versuch
